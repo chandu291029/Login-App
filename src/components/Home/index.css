@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.container {
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  height: 30vh;
+  width: 70vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container1 {
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Robot';
+  color: aliceblue;
+  font-size: 30px;
+}
